@@ -46,4 +46,3 @@ O projeto serve como ponto de partida para APIs REST, painéis administrativos o
 | DevOps    | GitHub Actions (CI), Dockerfile pronto para produção |
 | Outros    | `python-dotenv`, `pytest`, `black`, `flake8` |
 
-## 📂 Estrutura do Projeto
